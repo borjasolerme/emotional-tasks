@@ -62,7 +62,7 @@ function App() {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 flex items-center justify-center gap-3">
             <Sparkles className="h-8 w-8 text-indigo-600" />
-            <span>Tabla de Tareas Emocionales</span>
+            <span>Tabla de tareas</span>
           </h1>
           <p className="mt-2 text-lg text-gray-600">
             Organiza tus tareas considerando el impacto emocional y empresarial
